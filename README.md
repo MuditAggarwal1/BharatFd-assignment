@@ -17,7 +17,7 @@ A Django-based backend system for managing FAQs with **automated translations**,
 
 ### 1️⃣ Clone the Repository  
 git clone https://github.com/MuditAggarwal1/BharatFd-assignment.git
--cd BharatFd_Assignment
+-cd BharatFd-assignment
 
 ### 2️⃣ Set Up a Virtual Environment (Optional but Recommended)
 python -m venv venv
