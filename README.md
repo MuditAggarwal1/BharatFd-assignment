@@ -16,7 +16,7 @@ A Django-based backend system for managing FAQs with **automated translations**,
 ## 🛠️ Installation  
 
 ### 1️⃣ Clone the Repository  
-git clone https://github.com/SrihithaJhansi/BharatFd_Assignment.git
+git clone https://github.com/MuditAggarwal1/BharatFd-assignment.git
 -cd BharatFd_Assignment
 
 ### 2️⃣ Set Up a Virtual Environment (Optional but Recommended)
@@ -52,9 +52,6 @@ curl http://127.0.0.1:8000/api/faq/
 # Hindi
 curl http://127.0.0.1:8000/api/faq/?lang=hi
 
-# Bengali
-curl http://127.0.0.1:8000/api/faq/?lang=bn
-
 
 🖥️ Admin Panel
 Visit http://127.0.0.1:8000/admin.
@@ -62,7 +59,7 @@ Visit http://127.0.0.1:8000/admin.
 🔑 Log in using your superuser credentials.
 
 Add/Edit FAQs:
-✅ Questions/answers are auto-translated to Hindi and Bengali on save.
+✅ Questions/answers are auto-translated to Hindi on save.
 ✅ WYSIWYG editor allows rich-text formatting.
 
 💡 Technologies Used
@@ -78,5 +75,4 @@ Pull requests are welcome!
 Follow PEP8 guidelines.
 Write unit tests for new features.
 Use conventional Git commit messages (e.g., feat: Add Hindi translation).
-# BharatFd-assignment
 # BharatFd-assignment
